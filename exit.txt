@@ -1,8 +1,1 @@
-{
-'message': 'hello world564656',
- 'chat': {
-'id': '88585992-48e7-4e96-884a-de6c037c26e4'
-    }, 
-'user': {'id': '2c1aa916-4ddd-4eab-90bd-48c1647ac0ee', 'username': 'gamerlex64@gmail.com'
-    }
-}new
+
